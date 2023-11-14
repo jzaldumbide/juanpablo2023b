@@ -1,7 +1,7 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {		
-		System.out.println(".....Hola a todos, buenas tardes");
+		System.out.println(".....me uno al grupo Anderson");
 	}
 
 }
